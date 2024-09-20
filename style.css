@@ -1,0 +1,32 @@
+*{
+    background-color: #99CC99;
+}
+h1 {
+    font: 1em sans-serif;
+    font-weight: bold;
+    font-size: 35px;    
+    margin-left: 40%;
+}
+h2 {
+    font: 1em sans-serif;
+    font-weight: bold;
+    font-size: 19px;
+    margin-left: 40.2%;
+    margin-top: -2%;
+}
+h3 {
+    font: 1em sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 30%;}
+l {
+    font: 1em sans-serif;}
+.sub{
+    padding-left: 30px;
+}
+.sub-2{
+    padding-left: 60px;
+}
+p   {
+    font: 1em sans-serif;
+}
